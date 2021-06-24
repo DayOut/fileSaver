@@ -1,0 +1,7 @@
+botToken.py
+__pycache__
+eventsLog*
+hello.txt
+loadedFiles.txt
+users.txt
+files/*
